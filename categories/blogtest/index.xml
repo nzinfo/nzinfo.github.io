@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blogtest | Academic</title>
+    <title>blogtest | Notes of nzinfo</title>
     <link>/categories/blogtest/</link>
       <atom:link href="/categories/blogtest/index.xml" rel="self" type="application/rss+xml" />
     <description>blogtest</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
       <title>blogtest</title>
       <link>/categories/blogtest/</link>
     </image>
@@ -17,7 +17,19 @@
       <link>/post/demo-hello-world/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/post/demo-hello-world/</guid>
-      <description></description>
+      <description>&lt;p&gt;jfdslafjsd&lt;/p&gt;
+&lt;p&gt;afjdksafdksla&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+</description>
     </item>
     
   </channel>
