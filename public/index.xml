@@ -100,5 +100,14 @@ The Emoji cheat sheet is a useful reference for emoji shorthand codes.
  N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://nzinfo.github.io/public/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nzinfo.github.io/public/posts/my-first-post/</guid>
+      <description>\$sqrt(4) = 2\$   </description>
+    </item>
+    
   </channel>
 </rss>

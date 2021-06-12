@@ -1,0 +1,8 @@
+= My Diabolical Mathmatical Opus
+Jamie Moriarty
+:stem: latexmath
+
+[asciimath]
+++++
+sqrt(4) = 2
+++++
