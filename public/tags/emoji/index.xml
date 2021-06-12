@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on nzinfo&#39;s Blog</title>
-    <link>https://nzinfo.github.io/tags/emoji/</link>
+    <link>https://nzinfo.github.io/public/tags/emoji/</link>
     <description>Recent content in emoji on nzinfo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 18 Jan 2017 02:01:58 +0530</lastBuildDate>
     
-	<atom:link href="https://nzinfo.github.io/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nzinfo.github.io/public/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emoji Support</title>
-      <link>https://nzinfo.github.io/posts/post-1/</link>
+      <link>https://nzinfo.github.io/public/posts/post-1/</link>
       <pubDate>Wed, 18 Jan 2017 02:01:58 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/posts/post-1/</guid>
+      <guid>https://nzinfo.github.io/public/posts/post-1/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways.
 The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site&amp;rsquo;s configuration and then you can type emoji shorthand codes directly in content files; e.g.

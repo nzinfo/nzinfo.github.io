@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on nzinfo&#39;s Blog</title>
-    <link>https://nzinfo.github.io/tags/</link>
+    <link>https://nzinfo.github.io/public/tags/</link>
     <description>Recent content in Tags on nzinfo&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate>
     
-	<atom:link href="https://nzinfo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nzinfo.github.io/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Markdown</title>
-      <link>https://nzinfo.github.io/tags/markdown/</link>
+      <link>https://nzinfo.github.io/public/tags/markdown/</link>
       <pubDate>Wed, 18 Sep 2019 12:13:38 +0500</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/markdown/</guid>
+      <guid>https://nzinfo.github.io/public/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image</title>
-      <link>https://nzinfo.github.io/tags/image/</link>
+      <link>https://nzinfo.github.io/public/tags/image/</link>
       <pubDate>Fri, 06 Sep 2019 12:13:36 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/image/</guid>
+      <guid>https://nzinfo.github.io/public/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chinese</title>
-      <link>https://nzinfo.github.io/tags/chinese/</link>
+      <link>https://nzinfo.github.io/public/tags/chinese/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/chinese/</guid>
+      <guid>https://nzinfo.github.io/public/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plain</title>
-      <link>https://nzinfo.github.io/tags/plain/</link>
+      <link>https://nzinfo.github.io/public/tags/plain/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/plain/</guid>
+      <guid>https://nzinfo.github.io/public/tags/plain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MathJax</title>
-      <link>https://nzinfo.github.io/tags/mathjax/</link>
+      <link>https://nzinfo.github.io/public/tags/mathjax/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/mathjax/</guid>
+      <guid>https://nzinfo.github.io/public/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://nzinfo.github.io/tags/test/</link>
+      <link>https://nzinfo.github.io/public/tags/test/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/test/</guid>
+      <guid>https://nzinfo.github.io/public/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://nzinfo.github.io/tags/emoji/</link>
+      <link>https://nzinfo.github.io/public/tags/emoji/</link>
       <pubDate>Wed, 18 Jan 2017 02:01:58 +0530</pubDate>
       
-      <guid>https://nzinfo.github.io/tags/emoji/</guid>
+      <guid>https://nzinfo.github.io/public/tags/emoji/</guid>
       <description></description>
     </item>
     
