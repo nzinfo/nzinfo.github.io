@@ -1,4 +1,4 @@
-baseURL = "https://nzinfo.github.io/"
+baseURL = "https://nzinfo.github.io/public"
 languageCode = "zh-cn"
 title = "nzinfo's Blog"
 theme = "simpleness"
